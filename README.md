@@ -1,2 +1,2 @@
 # Game-Hub-
-a basic proejct
+a basic project
